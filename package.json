@@ -12,7 +12,7 @@
     "progressive-input",
     "clearable-input"
   ],
-  "author": "scott <scott.lee318@gmail.com>",
+  "author": "Alexander Desyatnik<aldes@aldes.ru>",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "0.x",
